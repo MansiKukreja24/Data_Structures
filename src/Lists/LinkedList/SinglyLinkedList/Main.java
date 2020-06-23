@@ -10,11 +10,18 @@ public class Main {
 
 
         EmployeeLinkedList list = new EmployeeLinkedList();
+
+        System.out.println(list.isEmpty());
         list.addToFront(janeJones);
         list.addToFront(johnDoe);
         list.addToFront(marySmith);
-
+        System.out.println("Size:  "+list.getSize());
         list.printList();
+        list.removeFromFront();
+        System.out.println("Size:  "+list.getSize());
+        list.printList();
+
+
     }
 
 }
