@@ -11,7 +11,7 @@ public class LinearSearch {
             arr[i] = sc.nextInt();
         System.out.println("Enter element to be searched");
         int ele = sc.nextInt();
-        System.out.println(linearSearch(arr,ele));
+        System.out.println("Element is at index: "+linearSearch(arr,ele));
     }
 
         public static int linearSearch(int[] arr,int ele){
