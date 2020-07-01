@@ -6,7 +6,7 @@
 - [x] Sort Algorithms
 - [x] LinkedList
 - [x] Stacks
-- [ ] Queues
+- [ ] Queue
 - [ ] Hashtables
 - [ ] Search Algorithms
 - [ ] Trees
