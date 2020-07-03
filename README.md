@@ -6,8 +6,8 @@
 - [x] Sort Algorithms
 - [x] LinkedList
 - [x] Stacks
-- [ ] Queue
+- [x] Queue
 - [ ] Hashtables
-- [ ] Search Algorithms
+- [x] Search Algorithms
 - [ ] Trees
 - [ ] Heaps
